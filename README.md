@@ -86,9 +86,9 @@ class MansiKalathiya:
     
     def get_contact_info(self):
         return {
-            "email": "your.email@example.com",
+            "email": "kalathiyamansi1712@gmail.com",
             "linkedin": "linkedin.com/in/mansi-kalathiya",
-            "location": "Halifax, Nova Scotia 🇨🇦"
+            "location": "Canada"
         }
 ```
 
@@ -100,7 +100,7 @@ class MansiKalathiya:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalathiyamansi1712@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](h[ttps://www.linkedin.com/in/mansi-kalathiya](https://www.linkedin.com/in/mansi-kalathiya-251ba6241/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-kalathiya](https://www.linkedin.com/in/mansi-kalathiya-251ba6241/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
 
